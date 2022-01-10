@@ -28,7 +28,7 @@
                         "\t\t\t  example: `2 Raspberry 11` -> bush: (name = Raspberry, flowering month = November)\n"\
                         "\t\t Flower: flower type with int_32 type. (1 - home, 2 - garden, 3- wild)\n"      \
                         "\t\t\t  example: `3 Clever 1` -> flower: (name = Clever, flower type = home)\n"    \
-                        "See example at /tests/example.txt"                                                 \
+                        "See example at /tests"                                                 \
 
 #define INPUT_FLAG_EXCEPTION_MESSAGE    "Error: Incorrect input flag syntax\n" \
                                         "Try '-h' command for more information.\n"
