@@ -1,0 +1,35 @@
+Container contains: 14 elements
+
+[0] Tree: name - pw, vowels per length = 0.000000, age - 8783.
+[1] Flower: name - cl, vowels per length = 0.000000, flower type - garden.
+[2] Tree: name - fbyn, vowels per length = 0.250000, age - 6749.
+[3] Tree: name - lbhxtatq, vowels per length = 0.125000, age - 2364.
+[4] Tree: name - vbklqw, vowels per length = 0.000000, age - 6422.
+[5] Tree: name - uj, vowels per length = 0.500000, age - 5424.
+[6] Tree: name - ydbefcjqewupteh, vowels per length = 0.333333, age - 9912.
+[7] Flower: name - dvzarqwfzgtihg, vowels per length = 0.142857, flower type - wild.
+[8] Flower: name - vx, vowels per length = 0.000000, flower type - wild.
+[9] Tree: name - dwtjevsavatpu, vowels per length = 0.307692, age - 6314.
+[10] Bush: name - cfntkfvqawx, vowels per length = 0.090909, flowering month - October.
+[11] Tree: name - nxirgi, vowels per length = 0.333333, age - 7936.
+[12] Bush: name - dveaqqeeyjonkby, vowels per length = 0.466667, flowering month - August.
+[13] Tree: name - zflkkfsxysidyr, vowels per length = 0.214286, age - 9723.
+
+===================================================================================
+
+=============================== Straight Insertion  ===============================
+
+[0] Tree: name - pw, vowels per length = 0.000000, age - 8783.
+[1] Flower: name - cl, vowels per length = 0.000000, flower type - garden.
+[2] Tree: name - vbklqw, vowels per length = 0.000000, age - 6422.
+[3] Flower: name - vx, vowels per length = 0.000000, flower type - wild.
+[4] Bush: name - cfntkfvqawx, vowels per length = 0.090909, flowering month - October.
+[5] Tree: name - lbhxtatq, vowels per length = 0.125000, age - 2364.
+[6] Flower: name - dvzarqwfzgtihg, vowels per length = 0.142857, flower type - wild.
+[7] Tree: name - zflkkfsxysidyr, vowels per length = 0.214286, age - 9723.
+[8] Tree: name - fbyn, vowels per length = 0.250000, age - 6749.
+[9] Tree: name - dwtjevsavatpu, vowels per length = 0.307692, age - 6314.
+[10] Tree: name - ydbefcjqewupteh, vowels per length = 0.333333, age - 9912.
+[11] Tree: name - nxirgi, vowels per length = 0.333333, age - 7936.
+[12] Bush: name - dveaqqeeyjonkby, vowels per length = 0.466667, flowering month - August.
+[13] Tree: name - uj, vowels per length = 0.500000, age - 5424.

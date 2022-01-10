@@ -1,0 +1,27 @@
+Container contains: 10 elements
+
+[0] Flower: name - fsdttcdqealgv, vowels per length = 0.153846, flower type - home.
+[1] Bush: name - qeskdpgwnqs, vowels per length = 0.090909, flowering month - June.
+[2] Flower: name - pdohpyxkjpdrcj, vowels per length = 0.142857, flower type - home.
+[3] Bush: name - yketbhcefdxhaf, vowels per length = 0.285714, flowering month - January.
+[4] Flower: name - vzvfdjwdhwveau, vowels per length = 0.214286, flower type - wild.
+[5] Tree: name - ubhynldzkqqrai, vowels per length = 0.285714, age - 5546.
+[6] Tree: name - fnsibdiuxkxoxzx, vowels per length = 0.266667, age - 5904.
+[7] Flower: name - qodj, vowels per length = 0.250000, flower type - wild.
+[8] Bush: name - iwtaey, vowels per length = 0.666667, flowering month - July.
+[9] Flower: name - hpukltn, vowels per length = 0.142857, flower type - garden.
+
+===================================================================================
+
+=============================== Straight Insertion  ===============================
+
+[0] Bush: name - qeskdpgwnqs, vowels per length = 0.090909, flowering month - June.
+[1] Flower: name - pdohpyxkjpdrcj, vowels per length = 0.142857, flower type - home.
+[2] Flower: name - hpukltn, vowels per length = 0.142857, flower type - garden.
+[3] Flower: name - fsdttcdqealgv, vowels per length = 0.153846, flower type - home.
+[4] Flower: name - vzvfdjwdhwveau, vowels per length = 0.214286, flower type - wild.
+[5] Flower: name - qodj, vowels per length = 0.250000, flower type - wild.
+[6] Tree: name - fnsibdiuxkxoxzx, vowels per length = 0.266667, age - 5904.
+[7] Bush: name - yketbhcefdxhaf, vowels per length = 0.285714, flowering month - January.
+[8] Tree: name - ubhynldzkqqrai, vowels per length = 0.285714, age - 5546.
+[9] Bush: name - iwtaey, vowels per length = 0.666667, flowering month - July.

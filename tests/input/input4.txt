@@ -1,0 +1,5 @@
+4
+1 tree 44
+2 bush 5
+3 flower 2
+3 flower 3

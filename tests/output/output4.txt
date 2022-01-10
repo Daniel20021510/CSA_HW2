@@ -1,0 +1,15 @@
+Container contains: 4 elements
+
+[0] Tree: name - tree, vowels per length = 0.500000, age - 44.
+[1] Bush: name - bush, vowels per length = 0.250000, flowering month - May.
+[2] Flower: name - flower, vowels per length = 0.333333, flower type - garden.
+[3] Flower: name - flower, vowels per length = 0.333333, flower type - wild.
+
+===================================================================================
+
+=============================== Straight Insertion  ===============================
+
+[0] Bush: name - bush, vowels per length = 0.250000, flowering month - May.
+[1] Flower: name - flower, vowels per length = 0.333333, flower type - garden.
+[2] Flower: name - flower, vowels per length = 0.333333, flower type - wild.
+[3] Tree: name - tree, vowels per length = 0.500000, age - 44.

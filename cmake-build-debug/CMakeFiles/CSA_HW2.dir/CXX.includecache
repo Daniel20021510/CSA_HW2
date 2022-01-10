@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daniilles/Documents/CSA/CSA_HW2/container/container.cpp
+cstring
+-
+container.h
+/Users/daniilles/Documents/CSA/CSA_HW2/container/container.h
+../functions/additional_functions .h
+/Users/daniilles/Documents/CSA/CSA_HW2/functions/additional_functions .h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/container/container.h
+cstdio
+-
+../objects/plant.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/plant.h
+../objects/tree.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/tree.h
+../objects/bush.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/bush.h
+../objects/flower.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/flower.h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/flags_workwer/flags_worker.h
+unistd.h
+-
+
+/Users/daniilles/Documents/CSA/CSA_HW2/functions/additional_functions .h
+random
+/Users/daniilles/Documents/CSA/CSA_HW2/functions/random
+
+/Users/daniilles/Documents/CSA/CSA_HW2/functions/vowels_functions.h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/main.cpp
+iostream
+-
+stdio.h
+-
+time.h
+-
+container/container.h
+/Users/daniilles/Documents/CSA/CSA_HW2/container/container.h
+flags_workwer/flags_worker.h
+/Users/daniilles/Documents/CSA/CSA_HW2/flags_workwer/flags_worker.h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/bush.cpp
+bush.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/bush.h
+../functions/additional_functions .h
+/Users/daniilles/Documents/CSA/CSA_HW2/functions/additional_functions .h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/bush.h
+cstdio
+-
+plant.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/plant.h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/flower.cpp
+flower.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/flower.h
+../functions/additional_functions .h
+/Users/daniilles/Documents/CSA/CSA_HW2/functions/additional_functions .h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/flower.h
+cstdio
+-
+plant.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/plant.h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/plant.cpp
+plant.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/plant.h
+tree.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/tree.h
+bush.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/bush.h
+flower.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/flower.h
+../functions/vowels_functions.h
+/Users/daniilles/Documents/CSA/CSA_HW2/functions/vowels_functions.h
+
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/plant.h
+cstdio
+-
+
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/tree.h
+fstream
+-
+plant.h
+/Users/daniilles/Documents/CSA/CSA_HW2/objects/plant.h
+

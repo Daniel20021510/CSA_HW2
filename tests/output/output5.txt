@@ -1,0 +1,19 @@
+Container contains: 6 elements
+
+[0] Tree: name - ada, vowels per length = 0.666667, age - 44.
+[1] Bush: name - af, vowels per length = 0.500000, flowering month - May.
+[2] Flower: name - ffff, vowels per length = 0.000000, flower type - garden.
+[3] Flower: name - fdf, vowels per length = 0.000000, flower type - wild.
+[4] Tree: name - fdsf, vowels per length = 0.000000, age - 2222.
+[5] Bush: name - wdef, vowels per length = 0.250000, flowering month - December.
+
+===================================================================================
+
+=============================== Straight Insertion  ===============================
+
+[0] Flower: name - ffff, vowels per length = 0.000000, flower type - garden.
+[1] Flower: name - fdf, vowels per length = 0.000000, flower type - wild.
+[2] Tree: name - fdsf, vowels per length = 0.000000, age - 2222.
+[3] Bush: name - wdef, vowels per length = 0.250000, flowering month - December.
+[4] Bush: name - af, vowels per length = 0.500000, flowering month - May.
+[5] Tree: name - ada, vowels per length = 0.666667, age - 44.
